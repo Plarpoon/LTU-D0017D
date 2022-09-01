@@ -1,0 +1,6 @@
+[submodule "LTU-D0017D-exam-1"]
+	path = LTU-D0017D-exam-1
+	url = https://github.com/Plarpoon/LTU-D0017D-exam-1.git
+[submodule "LTU-D0017D-exam-2"]
+	path = LTU-D0017D-exam-2
+	url = https://github.com/Plarpoon/LTU-D0017D-exam-2.git
